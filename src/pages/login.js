@@ -32,7 +32,7 @@ function loginForm(){
       <button class="login" type="button" id="loginbutton">Iniciar sesion</button>
       <label>
         <input type="checkbox" checked="checked" name="remember" />
-        Remember me
+        Recordarme
       </label>
     </div>
 

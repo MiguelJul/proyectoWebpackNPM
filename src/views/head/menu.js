@@ -26,9 +26,7 @@ function generarMenu(dataProfile){
         <img src="${F1logo}" width="50px" height="25x">
         <span class="fs-4">Formula 1</span>
       </a>
-      <form class="col-12 col-lg-auto mb-3 mb-lg-0" role="search">
-        <input type="search" class="form-control" placeholder="Search..." aria-label="Search">
-      </form>
+
     </div>
   </header>`;
   cabecera.innerHTML="";
